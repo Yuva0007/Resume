@@ -2,9 +2,8 @@
 
 **Software Intern**
 
-📞 8122775039  
-📧 yuvaraj.m.7891@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yuvaraj-m-bb42ab354/) | [GitHub](https://github.com/Yuva0007)
+ 8122775039  
+ [Mail](yuvaraj.m.7891@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yuvaraj-m-bb42ab354/) | [GitHub](https://github.com/Yuva0007)
 
 ---
 
@@ -19,12 +18,12 @@ A highly motivated Computer Science undergraduate with a strong foundation in pr
 ### Pem School of Excellence  
 **Higher Secondary**  
 **2017 – 2023**  
-**GPA:** 70 / 100
+**GPA :** 70 / 100
 
 ### Sri Krishna College of Engineering and Technology  
 **B.E. Computer Science and Engineering**  
 **2023 – 2027**  
-**GPA:** 7.5 / 10
+**GPA :** 7.5 / 10
 
 ---
 
@@ -35,12 +34,12 @@ A highly motivated Computer Science undergraduate with a strong foundation in pr
 - Implemented instant alert mechanisms to enhance security and system reliability.
 
 ### Alumni Management System
-- Built a full-stack alumni networking platform using **Spring Boot** and **React**.
+- Built a full-stack alumni networking platform using Spring Boot and React.
 - Features include messaging, event posting, and profile management.
 - Implemented secure authentication, role-based access, and scalable REST APIs.
 
 ### Sales Dashboard
-- Created an interactive **Excel-based sales dashboard** using pivot tables, charts, and slicers.
+- Created an interactive Excel-based sales dashboard using pivot tables, charts, and slicers.
 - Automated data analysis to track revenue, top-selling products, and monthly performance trends.
 
 ---
